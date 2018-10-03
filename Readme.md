@@ -1,3 +1,3 @@
 Cross-site Request Forgery Protection Demo
 
-The main objective of this project is to demonstrate how to prevent from CSRF attacks using Synchronizer Token pattern & Double Submit Cookies Pattern.
+The main objective of this project is to demonstrate how to prevent from CSRF attacks using Synchronizer Token pattern & Double Submit Cookies Pattern.For more details visit http://rajithatsliit.blogspot.com/2018/10/how-to-implement-cross-site-request.html. To test the project download & extract the zip file. Generate .war file for both the demo projects and export it to the Tomacat Server then run  localhost:8080/SynchronizerTokenPatternDemo/Login.jsp to run the synchronizer token pattern demo or localhost:8080/DoubleSubmitCookiesPattern/Login.jsp to run the double submit cookies pattern demo in a browser.
